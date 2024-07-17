@@ -16,7 +16,7 @@ To get started with the project, follow these steps:
 
 2. Navigate to the project directory:
     ```sh
-    cd Speech-Text-Conversion
+    cd Speech-and-Text
     ```
 
 3. Install the required dependencies:
