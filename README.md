@@ -5,11 +5,55 @@ The deepgram Api key is used to make speech to text part of the project. User in
 2)Text to speech
 The gtts library is used for this task. User inputs the text and can convert it into the audio. The audio file can also be easily downloaded. It also supports both English and Hindi language.
 
-# To run the project
-Download all the files and save it in a folder. Open the folder in the vs code.
-Download the required requirements using-
-pip install streamlit,
-pip install gtts,
-pip install deepgram-sdk
-Run the project using---
-streamlit run app.py
+## Installation
+
+To get started with the project, follow these steps:
+
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/HarmanpreetKaur21/Speech-Text-Conversion.git
+    ```
+
+2. Navigate to the project directory:
+    ```sh
+    cd Speech-Text-Conversion
+    ```
+
+3. Install the required dependencies:
+    ```sh
+    pip install streamlit
+    pip install gtts
+    pip install deepgram-sdk
+    ```
+
+## Usage
+
+To run the project:
+
+1. Download all the files and save them in a folder.
+
+2. Open the folder in VS Code:
+    
+3. Run the project using Streamlit:
+    ```sh
+    streamlit run app.py
+    ```
+
+4. Follow the instructions in the Streamlit interface to use the speech-to-text and text-to-speech functionalities.
+
+## Features
+
+- Converts speech to text
+- Converts text to speech
+- User-friendly interface using Streamlit
+- Integrates with Deepgram SDK for advanced speech processing
+
+## Contributing
+
+We welcome contributions! Please follow these steps to contribute:
+
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature-branch`)
+3. Make your changes and commit them (`git commit -m 'Add some feature'`)
+4. Push to the branch (`git push origin feature-branch`)
+5. Open a Pull Request
