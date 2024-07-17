@@ -8,8 +8,8 @@ The gtts library is used for this task. User inputs the text and can convert it 
 # To run the project
 Download all the files and save it in a folder. Open the folder in the vs code.
 Download the required requirements using-
-pip install streamlit
-pip install gtts
+pip install streamlit,
+pip install gtts,
 pip install deepgram-sdk
-Run the project using
+Run the project using---
 streamlit run app.py
