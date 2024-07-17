@@ -11,7 +11,7 @@ To get started with the project, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/HarmanpreetKaur21/Speech-Text-Conversion.git
+    https://github.com/HarmanpreetKaur21/Speech-and-Text.git
     ```
 
 2. Navigate to the project directory:
